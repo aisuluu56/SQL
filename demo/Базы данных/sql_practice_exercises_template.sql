@@ -174,7 +174,7 @@ SELECT product_name, list_price,
 (list_price - cost_price) AS margin_amount
 FROM products
 
--- 3. Рассчитайте процент наценки относительно себестоимости. Округлите до двух знаков (`ROUND`).
+-- 3. Рассчитайте процент наценки относительно себестоимости. Округлите до двух знаков (`ROUND`).cvbcvbcvbcvb
 -- Запрос:
 SELECT 
     product_name,
